@@ -1,0 +1,21 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       [dbo].[perfume]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Recreate table
+       [dbo].[perfume] (Table)
+
+** Supporting actions
+
+If this deployment is executed, changes to [dbo].[perfume] might introduce run-time errors in [dbo].[CreatePerfume].
+If this deployment is executed, changes to [dbo].[perfume] might introduce run-time errors in [dbo].[DeletePerfume].
+If this deployment is executed, changes to [dbo].[perfume] might introduce run-time errors in [dbo].[Get Perfume].
+If this deployment is executed, changes to [dbo].[perfume] might introduce run-time errors in [dbo].[Update Perfume].
+

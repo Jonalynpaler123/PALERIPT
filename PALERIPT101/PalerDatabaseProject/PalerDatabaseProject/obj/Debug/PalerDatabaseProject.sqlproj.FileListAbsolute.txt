@@ -1,0 +1,6 @@
+D:\PALERIPT101\PalerDatabaseProject\PalerDatabaseProject\bin\Debug\PalerDatabaseProject.dacpac
+D:\PALERIPT101\PalerDatabaseProject\PalerDatabaseProject\bin\Debug\PalerDatabaseProject.dll
+D:\PALERIPT101\PalerDatabaseProject\PalerDatabaseProject\bin\Debug\PalerDatabaseProject.pdb
+D:\PALERIPT101\PalerDatabaseProject\PalerDatabaseProject\obj\Debug\PalerDatabaseProject.sqlproj.AssemblyReference.cache
+D:\PALERIPT101\PalerDatabaseProject\PalerDatabaseProject\obj\Debug\PalerDatabaseProject.dll
+D:\PALERIPT101\PalerDatabaseProject\PalerDatabaseProject\obj\Debug\PalerDatabaseProject.pdb
