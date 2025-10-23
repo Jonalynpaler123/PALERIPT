@@ -1,0 +1,4 @@
+D:\PalerWPF\PalerWpfProject\PalerWpfProject\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\PalerWPF\PalerWpfProject\PalerWpfProject\obj\Debug\net8.0-windows\App.g.cs
+D:\PalerWPF\PalerWpfProject\PalerWpfProject\obj\Debug\net8.0-windows\PalerWpfProject_MarkupCompile.cache
+D:\PalerWPF\PalerWpfProject\PalerWpfProject\obj\Debug\net8.0-windows\PalerWpfProject_MarkupCompile.lref
